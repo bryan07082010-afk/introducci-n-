@@ -1,0 +1,9 @@
+proceso suma
+Escribir "Programa que sumados numeros"
+Escribir "Digite el primer numero"
+leer Num1
+Escribir "Digite el segundo numero"
+leer Num2
+SUMA = Num1 + Num2
+Escribir "El resultado de ", Num1," + ", Num2, " la suma es : ", SUMA
+FINPROCESO
